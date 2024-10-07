@@ -1,0 +1,29 @@
+# ![](https://raw.githubusercontent.com/wacko1805/Pixel-Wallpaper-app/main/assets/Pixel%20Wallpapers.png)
+## An app full of 200+ Stock Google Pixel wallpapers! Download:
+  <a href="[https://github.com/wacko1805/Pixel-Wallpaper-app/releases/download/v1.0.5/dev.wacko1805.pixel.wallpapers-v1.0.5-debug.apk](https://github.com/wacko1805/Pixel-Wallpaper-app/releases/tag/v1.0.6)"><img src="https://raw.githubusercontent.com/wacko1805/Pixel-Wallpaper-app/main/assets/download.png" width="300px"></a><br>
+  ![GitHub all releases](https://img.shields.io/github/downloads/wacko1805/pixel-Wallpaper-app/total?style=for-the-badge)
+  
+## Found a Wallpaper not on the app? Submit and issue to the [Google Pixel Wallpaper](https://github.com/wacko1805/google-pixel-wallpapers) repository
+
+ ## Screenshots:
+<img width="30%" src="https://raw.githubusercontent.com/wacko1805/Pixel-Wallpaper-app/main/assets/sc-2.png"><img width="30%" src="https://raw.githubusercontent.com/wacko1805/Pixel-Wallpaper-app/main/assets/sc-1.png">
+
+## Credits:
+
+* [jahirfiquitiva for Frames](https://github.com/jahirfiquitiva/Frames)
+* The people who made the wallpapers at google
+* 9to5 Google for supplying some of the wallpapers
+
+## general:
+
+All wallpapers are retrevied from my other [Google Pixel Wallpaper](https://github.com/wacko1805/google-pixel-wallpapers) repository
+
+## Changelog:
+
+### v1.0.5:
+* Updated frames to v3.5.4
+* Rebuilt backend API
+
+## Todo:
+
+* Splashscreen
